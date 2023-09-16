@@ -22,6 +22,12 @@ const router = createRouter({
       name: 'factura',
       component: () => import('../views/FacturaView.vue')
 
+    },
+    {
+      path: '/servicio',
+      name: 'servicio',
+      component: () => import('../views/ServicioView.vue')
+
     }
   ]
 })
