@@ -55,4 +55,5 @@ axios.get('https://fakestoreapi.com/products',{
 <h1></h1>
 </template>
 <style>
+
 </style>
